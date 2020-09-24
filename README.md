@@ -2,7 +2,7 @@
 
 welcome 😉
 
-- 📫: 1076849402@qq.com
+📫: 1076849402@qq.com
 
 <!--
 **JhonXY/JhonXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
