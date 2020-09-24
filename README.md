@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-lalala
+welcome 😉
 
 - 📫: 1076849402@qq.com
 
